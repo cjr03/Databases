@@ -1,1 +1,2 @@
-Coursework completed in SQL while studying databases.
+# Databases
+SQL programs written while studying databases.
